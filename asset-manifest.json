@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/stop-discrimination/static/css/main.f917d054.chunk.css",
+    "main.js": "/stop-discrimination/static/js/main.0a8683fc.chunk.js",
+    "main.js.map": "/stop-discrimination/static/js/main.0a8683fc.chunk.js.map",
+    "runtime-main.js": "/stop-discrimination/static/js/runtime-main.5d7747c0.js",
+    "runtime-main.js.map": "/stop-discrimination/static/js/runtime-main.5d7747c0.js.map",
+    "static/js/2.19442030.chunk.js": "/stop-discrimination/static/js/2.19442030.chunk.js",
+    "static/js/2.19442030.chunk.js.map": "/stop-discrimination/static/js/2.19442030.chunk.js.map",
+    "index.html": "/stop-discrimination/index.html",
+    "static/css/main.f917d054.chunk.css.map": "/stop-discrimination/static/css/main.f917d054.chunk.css.map",
+    "static/js/2.19442030.chunk.js.LICENSE.txt": "/stop-discrimination/static/js/2.19442030.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d7747c0.js",
+    "static/js/2.19442030.chunk.js",
+    "static/css/main.f917d054.chunk.css",
+    "static/js/main.0a8683fc.chunk.js"
+  ]
+}

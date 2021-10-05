@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/stop-discrimination/static/css/main.f917d054.chunk.css",
-    "main.js": "/stop-discrimination/static/js/main.0a8683fc.chunk.js",
-    "main.js.map": "/stop-discrimination/static/js/main.0a8683fc.chunk.js.map",
+    "main.js": "/stop-discrimination/static/js/main.61cef7c5.chunk.js",
+    "main.js.map": "/stop-discrimination/static/js/main.61cef7c5.chunk.js.map",
     "runtime-main.js": "/stop-discrimination/static/js/runtime-main.5d7747c0.js",
     "runtime-main.js.map": "/stop-discrimination/static/js/runtime-main.5d7747c0.js.map",
     "static/js/2.19442030.chunk.js": "/stop-discrimination/static/js/2.19442030.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.5d7747c0.js",
     "static/js/2.19442030.chunk.js",
     "static/css/main.f917d054.chunk.css",
-    "static/js/main.0a8683fc.chunk.js"
+    "static/js/main.61cef7c5.chunk.js"
   ]
 }
